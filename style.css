@@ -1,0 +1,27 @@
+*{
+	font-family: Helevtica, Arial;
+	text-decoration: none;
+
+}
+
+a{
+	color: #000000;
+	font-style: bold;
+	font-style: italic;
+	font-family: freeMono;
+}
+
+a:hover{
+	color: #888888;
+}
+
+a:visited{
+	color: #888888;
+}
+
+#est1{
+	font-family: Freemono;
+	font-style: bold;
+	font-style: italic;
+	color: #000066;
+}
